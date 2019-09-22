@@ -2,6 +2,19 @@
 # taskManage--node
 任务管理小程序的后端代码，使用egg.js编写
 
+使用jwt插件写的token
+
+RESTful API更新      （完成）
+
+错误处理机制          （完成）
+
+设置页面              （未完成）
+
+退出页面              （未完成） 
+
+列表页面               (未完成)
+
+添加页面              （未完成） 
 
 
 ## QuickStart

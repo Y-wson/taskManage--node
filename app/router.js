@@ -5,8 +5,6 @@
  */
 module.exports = app => {
   const { router, controller } = app;
-  router.get('/', controller.home.index);
-  require('./route/user')(app);
-  require('./route/priority')(app);
 
+  require('./route/router.local')(app);
 };
